@@ -33,7 +33,7 @@
 
 ---------------------------
 
-**Papers:**
+**Reference Papers**
 
 * [Correlational Neural Networks](http://arxiv.org/abs/1504.07225 "Sarath Chandar, Mitesh M. Khapra, Hugo Larochelle, Balaraman Ravindran")
 * [Optimizing Neural Networks that Generate Images](http://www.cs.toronto.edu/~tijmen/tijmen_thesis.pdf "Tijmen Tieleman") ([github.com/mrkulk/Unsupervised-Capsule-Network](https://github.com/mrkulk/Unsupervised-Capsule-Network))
