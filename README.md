@@ -29,6 +29,7 @@
 - **AAE**: Adversarial autoencoder 
 - **WTA-AE**: Winner-take-all autoencoder 
 
+---------------------------
 
 **Papers:**
 
