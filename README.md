@@ -16,6 +16,8 @@
 
 || [autoencoder_explained](https://github.com/llSourcell/autoencoder_explained) |  [Autoencoder-TensorBoard-t-SNE](https://github.com/Vooban/Autoencoder-TensorBoard-t-SNE) | [VAE-Tensorflow](https://github.com/shaohua0116/VAE-Tensorflow) | [abnormal-spatiotemporal-ae](https://github.com/yshean/abnormal-spatiotemporal-ae) | [Image-Retrieval](https://github.com/OliverEdholm/Image-Retrieval) | [pytorch-vae](https://github.com/ethanluoyc/pytorch-vae) | [AAE](https://github.com/takat0m0/AAE) | [clweadv](https://github.com/Avmb/clweadv) | [TensorFlow-VAE](https://github.com/dancsalo/TensorFlow-VAE) | [TensorFlow-Convolutional-AutoEncoder](https://github.com/Seratna/TensorFlow-Convolutional-AutoEncoder) | [autoencoder_demo](https://github.com/llSourcell/autoencoder_demo) | [tinybrain](https://github.com/eirikrwu/tinybrain) | [flight-delays](https://github.com/cavaunpeu/flight-delays) | [CVAE](https://github.com/jramapuram/CVAE) | [variational-autoencoder](https://github.com/musyoku/variational-autoencoder) | [AdversarialAutoEncoder](https://github.com/nicklhy/AdversarialAutoEncoder) | [mSDA](https://github.com/phdowling/mSDA) | [Autorec](https://github.com/gtshs2/Autorec) ||
 
+|| [vae_cf](https://github.com/dawenl/vae_cf) ||
+
 ---------------
 
 - **AE**: Fully-connected autoencoder
