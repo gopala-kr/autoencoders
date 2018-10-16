@@ -18,3 +18,5 @@
 * [Towards universal neural nets: Gibbs machines and ACE](http://arxiv.org/abs/1508.06585 "Galin Georgiev")
 * [Transforming Auto-encoders](http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf "G. E. Hinton, A. Krizhevsky, S. D. Wang")
 * [Discovering Hidden Factors of Variation in Deep Networks](http://arxiv.org/abs/1412.6583 "Brian Cheung, Jesse A. Livezey, Arjun K. Bansal, Bruno A. Olshausen")
+
+-------------
