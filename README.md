@@ -1,4 +1,7 @@
 
+
+#### Types of Autoencoders
+
 - **AE**: Fully-connected autoencoder
 - **SparseAE**: Sparse autoencoder
 - **DeepAE**: Deep (fully-connected) autoencoder
@@ -14,6 +17,9 @@
 
 -------------
 
+
+#### Variational Autoencoder
+
 *Name* | *Paper Link* | *Loss Function*
 :---: | :---: | :---
 **VAE**| [Arxiv](https://arxiv.org/abs/1312.6114) | <img src = 'https://github.com/hwalsuklee/tensorflow-generative-model-collections/blob/master/assets/equations/VAE.png' height = '35px'>
@@ -22,7 +28,16 @@
 **AAE**| [Arxiv](https://arxiv.org/abs/1511.05644) | (to be added) 
 
 #### Variants of VAE structure
+
 <img src = 'https://github.com/hwalsuklee/tensorflow-generative-model-collections/blob/master/assets/etc/VAE_structure.png' height = '280px'>
+
+
+----------------
+
+##### References
+
+- [ref-papers](https://github.com/gopala-kr/autoencoders/blob/master/ref-papers.md)
+- [ref-implementations](https://github.com/gopala-kr/autoencoders/blob/master/ref-implementations.md)
 
 ---------------------------
 
